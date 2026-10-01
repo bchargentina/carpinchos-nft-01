@@ -1,0 +1,28 @@
+{
+  "name": "Carpincho BCH Argentina #2393",
+  "image": "https://raw.githubusercontent.com/bchargentina/carpinchos-nft-01/b462ddad10fe7440389e69c3a03982e543bb4bd7/images/2393.webp",
+  "attributes": [
+    {
+      "trait_type": "fondos",
+      "value": "perito-moreno"
+    },
+    {
+      "trait_type": "ropa",
+      "value": "camiseta-argentina"
+    },
+    {
+      "trait_type": "cabeza",
+      "value": "piluso"
+    },
+    {
+      "trait_type": "anteojos",
+      "value": "futuristas"
+    },
+    {
+      "trait_type": "objetos",
+      "value": "mano-vacia"
+    }
+  ],
+  "description": "Carpincho de la colección BCH Argentina: arte argentino y comunidad Bitcoin Cash.",
+  "external_url": "https://www.bcharg.com/"
+}
