@@ -1,28 +1,28 @@
 {
-  "name": "Carpincho BCH Argentina #0176",
+  "name": "BCH Argentina Capybara #0176",
   "image": "https://raw.githubusercontent.com/bchargentina/carpinchos-nft-01/b462ddad10fe7440389e69c3a03982e543bb4bd7/images/0176.webp",
   "attributes": [
     {
-      "trait_type": "fondos",
-      "value": "iguazu"
+      "trait_type": "Background",
+      "value": "Iguazu Falls"
     },
     {
-      "trait_type": "ropa",
-      "value": "campera-antartica"
+      "trait_type": "Clothing",
+      "value": "Antarctic parka"
     },
     {
-      "trait_type": "cabeza",
-      "value": "gorro-lana"
+      "trait_type": "Headwear",
+      "value": "Knitted beanie"
     },
     {
-      "trait_type": "anteojos",
-      "value": "futuristas"
+      "trait_type": "Eyewear",
+      "value": "Futuristic visor"
     },
     {
-      "trait_type": "objetos",
-      "value": "truco"
+      "trait_type": "Handheld item",
+      "value": "Truco cards"
     }
   ],
-  "description": "Carpincho de la colección BCH Argentina: arte argentino y comunidad Bitcoin Cash.",
+  "description": "A capybara from the BCH Argentina collection: Argentine artwork and the Bitcoin Cash community.",
   "external_url": "https://www.bcharg.com/"
 }
